@@ -11,7 +11,7 @@ All you need to know about Time-Sensitive Networking
 | [IEEE Std 802.1CB-2017](https://ieeexplore.ieee.org/servlet/opac?punumber=8091137) | Frame Replication and Elimination for Reliability            | Archive |
 | [IEEE Std 802.1Qbu-2016](https://standards.ieee.org/findstds/standard/802.1Qbu-2016.html) | Frame Preemption.                                            | Archive |
 | [IEEE Std 802.1Qbv-2015](https://standards.ieee.org/findstds/standard/802.1Qbv-2015.html) | Enhancements for Scheduled Traffic. (Time-Aware Shaper)      | Archive |
-| [[IEEE Std 802.1Qcc-2018](https://standards.ieee.org/standard/802_1Qcc-2018.html)](https://standards.ieee.org/findstds/standard/802.1Qca-2015.html) | Stream Reservation Protocol (SRP) Enhancements and Performance Improvements. | Archive |
+| [IEEE Std 802.1Qcc-2018](https://standards.ieee.org/standard/802_1Qcc-2018.html) | Stream Reservation Protocol (SRP) Enhancements and Performance Improvements. | Archive |
 | [IEEE Std 802.1Qch-2017](https://standards.ieee.org/findstds/standard/802.1Qch-2017.html) | Cyclic Queuing and Forwarding (Peristaltic Shaper)           | Archive |
 | [IEEE Std 802.1Qcr-2020](https://standards.ieee.org/standard/802_1Qcr-2020.html) | Asynchronous Traffic Shaping                                 | Archive |
 | [IEEE Std 802.1Qav-200](https://standards.ieee.org/findstds/standard/802.1Qav-2009.html) | Forwarding and Queueing Enhancements for Time-Sensitive Streams, which specifies the Credit Based Shaper. | Archive |
